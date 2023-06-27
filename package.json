@@ -1,0 +1,14 @@
+{
+  "name": "qa_playwright_demoblaze",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1",
+    "prettier": "^2.8.8"
+  }
+}
